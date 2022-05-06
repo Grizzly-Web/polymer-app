@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+
+# POLYMER-APP
+
+Polymer App is an Ecommerce Store website for buying and selling goods. This Application is Created using React it's created using react feature like Redux, Hooks , State and Props .Firebase is used for making API calls from firebase server ,where all the product items are Listed. Using fetch Api making GET request to fetch all the product items from firebase.
+![Screenshot (558)](https://user-images.githubusercontent.com/105038283/167103053-12989fbe-c059-4541-92ee-b1ada002f60c.png)
+![Screenshot (563)](https://user-images.githubusercontent.com/105038283/167103066-d0e72ef0-3279-42e6-b08d-8878e2c7a327.png)
+
+
+
+# Getting Started with the App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,8 +17,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app 
+Open [https://stone-store-9887.web.app/](https://stone-store-9887.web.app/) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.

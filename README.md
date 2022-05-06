@@ -2,7 +2,10 @@
 # POLYMER-APP
 
 Polymer App is an Ecommerce Store website for buying and selling goods. This Application is Created using React it's created using react feature like Redux, Hooks , State and Props .Firebase is used for making API calls from firebase server ,where all the product items are Listed. Using fetch Api making GET request to fetch all the product items from firebase.
+
+
 ![Screenshot (558)](https://user-images.githubusercontent.com/105038283/167103053-12989fbe-c059-4541-92ee-b1ada002f60c.png)
+
 ![Screenshot (563)](https://user-images.githubusercontent.com/105038283/167103066-d0e72ef0-3279-42e6-b08d-8878e2c7a327.png)
 
 
